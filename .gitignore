@@ -1,0 +1,5 @@
+/xml/
+/csv/
+checkpoint_*.txt
+LITRES.log
+*.xml
