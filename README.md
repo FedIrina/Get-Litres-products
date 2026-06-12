@@ -1,6 +1,6 @@
 # Litres → WooCommerce: синхронизация каталога
 
-CLI-скрипты для инкрементальной загрузки каталога [Литрес](https://www.litres.ru/) (partner API) и подготовки CSV для импорта в WooCommerce через плагин `wc-litres-integration`.
+Cкрипты для инкрементальной загрузки каталога [Литрес](https://www.litres.ru/) (partner API) и подготовки CSV для импорта в WooCommerce через плагин `wc-litres-integration`.
 
 ## Контекст задачи
 
